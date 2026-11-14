@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 250" width="400" height="250" role="img" aria-label="COMPETE: 1 hackathon win at Techathon 2k26. HackCelestial offline round. SIH 2026 pending."><title>COMPETE: 1 hackathon win at Techathon 2k26. HackCelestial offline round. SIH 2026 pending.</title><style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes drift{from{stroke-dashoffset:0}to{stroke-dashoffset:-120}}
+.a{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
+.p{transform-box:fill-box;transform-origin:50% 50%;animation:pop .5s ease-out both}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+.drift{stroke-dasharray:6 14;animation:drift 12s linear infinite}
+@media (prefers-reduced-motion:reduce){.a,.g,.p,.pulse,.drift{animation:none!important}}
+</style><rect x="1.5" y="1.5" width="397" height="247" rx="26" fill="#fff0dc" stroke="#e4c2b4" stroke-width="3"/><g class="a" style="animation-delay:0.35s"><text x="32" y="52" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#a1504f" text-anchor="start" letter-spacing="3.5">COMPETE</text></g><g class="a" style="animation-delay:0.47s"><text x="30" y="150" font-family="'RS Serif','Instrument Serif',Georgia,'Times New Roman',serif" font-size="98" fill="#790b13" text-anchor="start" letter-spacing="0">1</text></g><g class="a" style="animation-delay:0.60s"><text x="32" y="186" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#790b13" text-anchor="start" letter-spacing="0">hackathon win at Techathon 2k26.</text></g><g class="a" style="animation-delay:0.68s"><text x="32" y="208" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#790b13" text-anchor="start" letter-spacing="0">HackCelestial offline round. SIH</text></g><g class="a" style="animation-delay:0.76s"><text x="32" y="230" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="17" fill="#790b13" text-anchor="start" letter-spacing="0">2026 pending.</text></g></svg>

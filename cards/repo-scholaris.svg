@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 270" width="400" height="270" role="img" aria-label="Scholaris: CAP-round admission parser that turns messy PDFs into structured, queryable data."><title>Scholaris: CAP-round admission parser that turns messy PDFs into structured, queryable data.</title><style>
+@keyframes rise{from{opacity:0;transform:translateY(14px)}to{opacity:1;transform:none}}
+@keyframes grow{from{transform:scaleY(0)}to{transform:scaleY(1)}}
+@keyframes pop{from{opacity:0;transform:scale(.4)}to{opacity:1;transform:none}}
+@keyframes pulse{0%,100%{opacity:1}50%{opacity:.3}}
+@keyframes drift{from{stroke-dashoffset:0}to{stroke-dashoffset:-120}}
+.a{animation:rise .8s cubic-bezier(.2,.7,.2,1) both}
+.g{transform-box:fill-box;transform-origin:50% 100%;animation:grow .9s cubic-bezier(.2,.7,.2,1) both}
+.p{transform-box:fill-box;transform-origin:50% 50%;animation:pop .5s ease-out both}
+.pulse{animation:pulse 2.2s ease-in-out infinite}
+.drift{stroke-dasharray:6 14;animation:drift 12s linear infinite}
+@media (prefers-reduced-motion:reduce){.a,.g,.p,.pulse,.drift{animation:none!important}}
+</style><rect x="1.5" y="1.5" width="397" height="267" rx="26" fill="#fff0dc" stroke="#e4c2b4" stroke-width="3"/><g class="a" style="animation-delay:0.42s"><text x="30" y="50" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="13.5" fill="#a1504f" text-anchor="start" letter-spacing="2">CAP-ROUND ADMISSIONS</text></g><g class="a" style="animation-delay:0.52s"><text x="28" y="112" font-family="'RS Serif','Instrument Serif',Georgia,'Times New Roman',serif" font-size="46" fill="#790b13" text-anchor="start" letter-spacing="0">Scholaris</text></g><g class="a" style="animation-delay:0.62s"><text x="30" y="152" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#790b13" text-anchor="start" letter-spacing="0">CAP-round admission parser that</text></g><g class="a" style="animation-delay:0.69s"><text x="30" y="177" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#790b13" text-anchor="start" letter-spacing="0">turns messy PDFs into</text></g><g class="a" style="animation-delay:0.76s"><text x="30" y="202" font-family="'RS Sans','Space Grotesk','Segoe UI',Helvetica,Arial,sans-serif" font-size="18" fill="#790b13" text-anchor="start" letter-spacing="0">structured, queryable data.</text></g><rect x="30" y="240" width="48" height="4" rx="2" fill="#a1504f"/></svg>
