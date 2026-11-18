@@ -11,3 +11,5 @@
 <a href="https://github.com/singh-ritesh17/trace"><img src="https://github.com/singh-ritesh17/singh-ritesh17/raw/main/cards/repo-trace.svg" width="32.5%" alt="Trace"></a><a href="https://github.com/singh-ritesh17/medikiosk"><img src="https://github.com/singh-ritesh17/singh-ritesh17/raw/main/cards/repo-medikiosk.svg" width="32.5%" alt="MediKiosk"></a><a href="https://github.com/singh-ritesh17/tulis"><img src="https://github.com/singh-ritesh17/singh-ritesh17/raw/main/cards/repo-tulis.svg" width="32.5%" alt="Tulis"></a>
 
 [github](https://github.com/singh-ritesh17)  /  [linkedin](https://www.linkedin.com/in/YOUR_LINKEDIN)  /  [instagram](https://www.instagram.com/YOUR_INSTAGRAM_HANDLE)
+
+<!--things to add now are componenst like , gaming consolle , <.> logo , editing logo , and ii am thinking of making them in colourfulll ascii code so that will look goood in the repo , i need to learn ai , ml , rlml , rag , and many more need ot srat quick -->
